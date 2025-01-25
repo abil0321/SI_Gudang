@@ -1,4 +1,4 @@
-
+<?php $this->load->view('partials/sidebar'); ?>
 <div class="content-wrapper">  
     <section class="content-header">  
         <h1>Edit Barang</h1>  
